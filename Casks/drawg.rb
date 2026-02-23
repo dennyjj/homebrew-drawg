@@ -1,6 +1,6 @@
 cask "drawg" do
-  version "1.0.1"
-  sha256 "8fbe2459e0c45efd9993267ee2b76f87c538d9bcdd049117c00fe4fbb1bc0baa"
+  version "1.0.2"
+  sha256 "cfe8e91c9b24ffd8d303bc70584683ba4ffb9faa830a73302f751f2b62069808"
 
   url "https://github.com/dennyjj/drawg/releases/download/v#{version}/Drawg.zip"
   name "Drawg"
